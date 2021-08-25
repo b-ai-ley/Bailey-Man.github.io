@@ -48,21 +48,18 @@ projects:
 
 topics:
   - name: Data Science
-    web_url: https://github.com/topics/css
-    image_url:
+    web_url: https://datascience.ucsd.edu/
+    image_url: https://datascience.ucsd.edu/wp-content/uploads/2019/08/UCSanDiego_Halicioglu_BlueGold.png
 
-  - name: Artificial Intelligence
-    web_url: https://github.com/topics/sass
-    image_url:
+  - name: COVID-19 ABM Modeling
+    web_url: https://geoact.sdsc.edu/
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxOGrP744xcpnNTDFZ6DCnYzXhGTPpqG0EdDWUI0r8oz1s21BqFaRL6-oOeD25lpcVhc&usqp=CAU
 
   - name: Systems Engineering
     web_url: https://www.nasa.gov/seh/index.html
-    image_url:
+    image_url: https://www.simventions.com/wp-content/uploads/2015/08/Icon_SysEng.png
 
   - name: Aerospace
-    web_url: https://github.com/topics/sass
-    image_url:
-
-  - name: Artificial Intelligence
-    web_url: https://github.com/topics/sass
-    image_url:
+    web_url: https://www.nasa.gov/
+    image_url: https://logos-world.net/wp-content/uploads/2020/05/NASA-Logo.png
+    
