@@ -1,5 +1,5 @@
 
-[My git.io](https://bailey-man.github.io/)
+[Portfolio](https://bailey-man.github.io/)
 
 ### Publish
 
