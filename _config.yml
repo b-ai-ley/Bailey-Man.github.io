@@ -46,13 +46,23 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+# topics:
+#   - name: Data Science
+#     web_url: https://github.com/topics/css
+#     image_url:
 
-  - name: Web design
+#   - name: Artificial Intelligence
+#     web_url: https://github.com/topics/sass
+#     image_url:
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+#   - name: Systems Engineering
+#     web_url: https://www.nasa.gov/seh/index.html
+#     image_url:
+
+#   - name: Aerospace
+#     web_url: https://github.com/topics/sass
+#     image_url:
+
+#   - name: Artificial Intelligence
+#     web_url: https://github.com/topics/sass
+#     image_url:
