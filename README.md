@@ -1,9 +1,9 @@
 
 [Portfolio](https://bailey-man.github.io/)
+<!-- 
+### Publish -->
 
-### Publish
-
-
+<!-- 
 #### Layout
 
 Your website will display in a two-column layout by default on larger-screen devices, with your photo, name, and basic information displayed in a left-aligned "sidebar." You can quickly switch to a "stacked" single-column layout by changing the line in your `_config.yml` file that reads `layout: sidebar` to `layout: stacked`.
@@ -46,4 +46,4 @@ YEAR-MONTH-DAY-title.MARKUP
 ---
 title: "The title of my blog post"
 ---
-```
+``` -->
