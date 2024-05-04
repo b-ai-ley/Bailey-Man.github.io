@@ -21,7 +21,8 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  # set github actions to push changes once per day to 3 projects
+  limit: 3
   exclude:
     archived: false
     forks: true
@@ -47,19 +48,17 @@ projects:
   # youtube: your_username
 
 topics:
+  # link to most recent blog post
   - name: Data Science
-    web_url: https://datascience.ucsd.edu/
-    image_url: https://datascience.ucsd.edu/wp-content/uploads/2019/08/UCSanDiego_Halicioglu_BlueGold.png
-
-  - name: COVID-19 ABM Modeling
-    web_url: https://geoact.sdsc.edu/
-    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxOGrP744xcpnNTDFZ6DCnYzXhGTPpqG0EdDWUI0r8oz1s21BqFaRL6-oOeD25lpcVhc&usqp=CAU
-
-  - name: Systems Engineering
-    web_url: https://www.nasa.gov/seh/index.html
-    image_url: https://www.simventions.com/wp-content/uploads/2015/08/Icon_SysEng.png
-
-  - name: Aerospace
-    web_url: https://www.nasa.gov/
-    image_url: https://logos-world.net/wp-content/uploads/2020/05/NASA-Logo.png
+    web_url: 
+    image_url: 
     
+  # link to my embroidery page of the website
+  - name: Embroidery
+    web_url: 
+    image_url: 
+
+  # link to my cooking page of the website
+  - name: Cooking
+    web_url: 
+    image_url: 
