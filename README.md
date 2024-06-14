@@ -18,7 +18,7 @@ Parameters include:
 - `limit`: The maximum number of repositories that will be displayed in the "My Projects" section of your website. Out of the box, this number is set to `9`.
 - `exclude`:
    - `forks`: When `true`, repositories you've forked will be excluded from the listing.
-   - `projects`: A list the repository names you want to exclude from the listing.
+   - `projects`: A list of the repository names you want to exclude from the listing.
 
 #### Topics
 
