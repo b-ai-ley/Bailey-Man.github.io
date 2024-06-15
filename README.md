@@ -1,8 +1,8 @@
 
 # Data Science Portfolio - Bailey Man
-This Portfolio contains summaries and links to the publicly available Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates.
+This Portfolio contains summaries and links to the publicly available Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my achievements, skills, and certificates.
 
-Last updated: 6/5/2024
+Last updated: 6/15/2024
 
 - **Email**: [baileyman99@gmail.com](baileyman99@gmail.com)
 - **LinkedIn**: [linkedin.com/Bailey-Man](https://www.linkedin.com/in/bailey-man/) 
