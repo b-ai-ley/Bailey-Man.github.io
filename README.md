@@ -17,7 +17,11 @@ Boston Apt Tracker
 
 Boston Job Tracker
 
-Local AI assistant for potry
+Local AI assistant for poetry
+
+history/mythology graph network
+
+stock prices vs articles published w/ good vs bad news - sentiment + model fit
 
 
 <!-- <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)** -->
