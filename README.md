@@ -1,18 +1,38 @@
 
 # Data Science Portfolio - Bailey Man
-This Portfolio contains summaries and links to the publicly available Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates.
+This Portfolio contains summaries and links to the publicly available Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my achievements, skills, and certificates.
 
-Last updated: 6/5/2024
+Last updated: 6/15/2024
 
 - **Email**: [baileyman99@gmail.com](baileyman99@gmail.com)
 - **LinkedIn**: [linkedin.com/Bailey-Man](https://www.linkedin.com/in/bailey-man/) 
 
 ## Projects
 
+Arachne
+
+Housing vs Homeless
+
+Boston Apt Tracker
+
+Boston Job Tracker
+
+Local AI assistant for poetry
+
+history/mythology graph network
+
+stock prices vs articles published w/ good vs bad news - sentiment + model fit
+
+
 <!-- <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)** -->
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
+- `sort_by`: The method by which repositories are sorted. Options include `pushed` and `stars`.
+- `limit`: The maximum number of repositories that will be displayed in the "My Projects" section of your website. Out of the box, this number is set to `9`.
+- `exclude`:
+   - `forks`: When `true`, repositories you've forked will be excluded from the listing.
+   - `projects`: A list of the repository names you want to exclude from the listing.
 ## Micro Projects
 - ### Statistics and Machine Learning
     # - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
